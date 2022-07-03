@@ -3,9 +3,7 @@ import java.util.Locale;
 public class doubloon {
     public static void main(String[] args) {
         String word = "Abra";
-
         isDoubloon(word);
-
     }
 
     public static void isDoubloon(String word){
